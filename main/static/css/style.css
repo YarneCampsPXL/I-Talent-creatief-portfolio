@@ -1,0 +1,40 @@
+.navbar-custom{
+    background-color: #000;
+}
+
+.link-custom {
+    color: white !important;
+}
+.container-custom{
+    padding-left: 7%;
+}
+.body-bg {
+    background-color: #DCDCDC;
+}
+
+.logo-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.logo-img {
+    height: 100px;
+}
+
+.equal-height-row {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+.equal-height-col {
+display: flex;
+flex-direction: column;
+}
+
+p, .justify-text {
+    text-align: justify !important;
+    text-justify: inter-word !important;
+}
+  
