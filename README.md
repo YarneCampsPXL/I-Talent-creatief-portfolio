@@ -1,14 +1,13 @@
 # 🎨 I-Talent Creatief Portfolio
 
-Een Django-webapplicatie voor het beheren en presenteren van creatieve portfolio's. Dit project is volledig dockerized en bevat ondersteuning voor AI-functionaliteiten met libraries zoals `transformers`, `langchain` en `faiss-cpu`.
+Een Django-webapplicatie voor het beheren en presenteren van creatieve portfolio's. Dit project is volledig dockerized.
 
 ---
 
 ## ⚙️ Functionaliteiten
 
 - Creatief portfolio-systeem
-- Gebouwd met Django + SQLite
-- Ondersteuning voor AI en NLP tools
+- Gebouwd met Django
 - Volledig te runnen in een Docker-container
 
 ---
