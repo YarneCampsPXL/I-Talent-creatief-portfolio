@@ -17,7 +17,7 @@ Een Django-webapplicatie voor het beheren en presenteren van creatieve portfolio
 ### 1. Clone of unzip dit project
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/YarneCampsPXL/I-Talent-creatief-portfolio.git
 cd I-Talent-creatief-portfolio
 ```
 
@@ -71,10 +71,6 @@ docker stop mijn-portfolio-container
 De volgende Python dependencies worden geïnstalleerd via `requirements.txt`:
 
 - Django
-- transformers
-- langchain
-- faiss-cpu
-- sentence-transformers
 
 ---
 
@@ -91,18 +87,3 @@ I-Talent-creatief-portfolio/
 ├── entrypoint.sh             # Startscript (met migraties)
 └── README.md                 # Documentatie
 ```
-
----
-
-## 🧠 Mogelijke uitbreidingen
-
-- Deployment met Gunicorn + Nginx
-- CI/CD pipeline (bv. GitHub Actions)
-- Hosting via Heroku, Render of VPS
-- Cloud storage integratie voor uploads (bv. AWS S3)
-
----
-
-## 👤 Auteur
-
-Gemaakt met ❤️ door [jouw naam hier].
